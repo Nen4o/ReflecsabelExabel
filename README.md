@@ -3,6 +3,6 @@ This game will improve your reflexes. The game is made to make you faster for ac
 
 
 // To open the game, type this link ==> https://play.unity.com/mg/other/webgl-builds-392323
-//When you do, play the sound and the game in full screen from the buttons in the lower right corner below the window where the game itself is visible.
+//When you do it, play the sound and the game in full screen from the buttons in the lower right corner below the window where the game itself is visible.
 // Enjoy the gameplay :),
 // Verson of Unity: 2022.3.2f1
